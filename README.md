@@ -1,33 +1,38 @@
-# Supermarket Grocery Sales
-## _Retail Analytics Dataset
+# Supermarket Grocery Sales Analysis
 
-#### Contributed by:
-Surbhi Gupta
+## Retail Analytics Dataset
 
-# Objectives 
-To conduct a comprehensive analysis of supermarket grocery sales data to derive actionable insights into product performance, regional sales trends, discount effectiveness, and overall profitability, ultimately informing strategic business decisions for optimization and growth.
+### Contributor: Surbhi Gupta
 
-# Problem Statements
+## Objective
+This project analyzes supermarket grocery sales data to derive actionable insights into product performance, regional sales trends, discount effectiveness, and overall profitability. The findings will support strategic business decisions aimed at optimizing sales and growth.
 
-1. Sales Performance by Product Category:
-⇒"Determine the product category that generated the highest total sales revenue."
-2. Maximum Discount Analysis:
-⇒"Identify the product(s) associated with the largest discount amount applied during the sales period."
-3. Regional Product Sales Distribution:
-⇒"Analyze and visualize the distribution of product sales revenue across different regions."
-4. City-Level Average Sales Performance:
-⇒"Calculate and compare the mean sales revenue for each city within the dataset."
+## Key Analyses
 
-5. Annual Profitability by Product:
-⇒"Determine the annual profit generated, and identify the product(s) that contributed most significantly to profitability each year."
- 
+1. **Sales Performance by Product Category**  
+   - Identify the product category with the highest total sales revenue.
+   
+2. **Maximum Discount Analysis**  
+   - Determine the product(s) with the largest discount amount applied during the sales period.
+   
+3. **Regional Product Sales Distribution**  
+   - Analyze and visualize sales revenue distribution across different regions.
+   
+4. **City-Level Average Sales Performance**  
+   - Calculate and compare mean sales revenue for each city.
+   
+5. **Annual Profitability by Product**  
+   - Assess annual profit generation and identify the most profitable products per year.
 
-## Tools used:
-1. Pandas
-2. Numpy
-3. Matplotlib
-4. Seaborn
+## Tools & Technologies
+- **Pandas**: Data manipulation and analysis
+- **NumPy**: Numerical computations
+- **Matplotlib**: Data visualization
+- **Seaborn**: Statistical data visualization
 
-# Conclusions
-TBD
+## Dataset Scope
+- Supermarket sales data segmented by city in Tamil Nadu.
+
+## Findings & Conclusions
+*TBD – Insights will be added upon completion of the analysis.*
 
